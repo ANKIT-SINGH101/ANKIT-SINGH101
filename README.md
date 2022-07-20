@@ -1,7 +1,7 @@
-<div>
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<span>
+<div>
 - 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **Web3**
@@ -10,9 +10,10 @@
 
 - ⚡ Fun fact **I would love to connect and collaborate with you.**
 </div>
-<div>
-  <img src="" alt="">
+<div align="right">
+  <img src="profile github.jpeg" alt="">
 </div>
+</span>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ankitsingh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ankitsingh101" height="30" width="40" /></a>
