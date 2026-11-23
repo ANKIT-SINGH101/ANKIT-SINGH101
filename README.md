@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Rest of the description is very old don't bother directly go to repo of 2026</h3>
 <img src="profile github.jpeg" alt="" width="400" height="400" align="right">
 - 🔭 I’m currently working on **myself**
   
